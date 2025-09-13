@@ -40,3 +40,7 @@ I enjoy exploring new technologies, working on practical projects, and continuou
 ### My Approach
 
 I like to think of myself as someone who works smarter, not harder.</p>
+
+## Achievements
+![Achievements](metrics/metrics.plugin.achievements.compact.svg)
+
