@@ -13,6 +13,11 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Compact Achievements Display
         uses: lowlighter/metrics@latest
         with:
@@ -24,7 +29,7 @@ jobs:
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: 5
 
       - name: Half-Year Calendar
         uses: lowlighter/metrics@latest
@@ -33,3 +38,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.svg
+          git commit -m "Update metrics" || echo "No changes to commit"
+          git push
