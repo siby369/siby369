@@ -22,7 +22,7 @@ I enjoy exploring new technologies, working on practical projects, and continuou
   src="./metrics.plugin.isocalendar.svg" 
   alt="Isometric commit calendar" 
   align="right" 
-  style="width: 55%; max-width: 520px; margin-left: 1rem; margin-bottom: 1rem;">
+  style="width: 55%; max-width: 520px; margin-left: 0rem; margin-bottom: 0rem;">
 
 <p align="left">
 
