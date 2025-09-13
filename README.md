@@ -18,7 +18,7 @@ I enjoy exploring new technologies, working on practical projects, and continuou
 
 
 ### What I’m Currently Focusing On  
-<img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" align="right" width="550" style="margin-left: 1rem; margin-bottom: 1rem;">
+<img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" align="right" width="520" style="margin-left: 1rem; margin-bottom: 1rem;">
 
 <p align="left">
 
