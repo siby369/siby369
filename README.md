@@ -7,7 +7,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" width="40%">
+  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" width="30%">
 </picture>
 <br />
 
@@ -16,7 +16,14 @@ I am an aspiring Full-Stack Developer with a strong interest in building scalabl
 
 I enjoy exploring new technologies, working on practical projects, and continuously refining my development abilities. My goal is to evolve into a versatile software engineer capable of contributing to impactful and innovative solutions.
 
+
 ### What I’m Currently Focusing On  
+<picture>
+  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" align="right" width="60%">
+</picture>
+<br />
+
+<p align="left">
 
 - ![MERN](https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)  
   Mastering **MongoDB, React, and Node.js**  
@@ -25,8 +32,9 @@ I enjoy exploring new technologies, working on practical projects, and continuou
   Practicing **Data Structures & Algorithms**  
 
 - ![Code](https://img.shields.io/badge/Clean%20Code-Efficiency-orange?style=for-the-badge&logo=codeforces&logoColor=white)  
-  Improving **problem-solving and coding efficiency**  
+  Improving **problem-solving and coding efficiency**
 
+</p>
 
 ### My Approach
 
