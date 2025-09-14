@@ -36,10 +36,13 @@ I enjoy exploring new technologies, working on practical projects, and continuou
 
 
 ### What I’m Currently Focusing On  
+<img 
+  src="./metrics.plugin.isocalendar.svg" 
+  alt="Isometric commit calendar" 
+  align="right" 
+  style="width: 70%; max-width: 520px; margin-left: 0rem; margin-bottom: 0rem;">
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<p align="left">
 
 - ![MERN](https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)  
   Mastering **MongoDB, React, and Node.js**  
@@ -50,14 +53,7 @@ I enjoy exploring new technologies, working on practical projects, and continuou
 - ![Code](https://img.shields.io/badge/Clean%20Code-Efficiency-orange?style=for-the-badge&logo=codeforces&logoColor=white)  
   Improving **problem-solving and coding efficiency**
 
-</td>
-<td align="center" width="55%">
-
-<img src="./metrics.plugin.isocalendar.svg" alt="Isometric commit calendar" width="700" height="250"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 
 
