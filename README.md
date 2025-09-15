@@ -43,7 +43,6 @@ I enjoy exploring new technologies, working on practical projects, and continuou
   style="width: 57%; max-width: 520px; margin-left: 0rem; margin-bottom: 0rem;">
 
 <p align="left">
-
 - ![MERN](https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)  
   Mastering **MongoDB, React, and Node.js**  
 
@@ -52,10 +51,7 @@ I enjoy exploring new technologies, working on practical projects, and continuou
 
 - ![Code](https://img.shields.io/badge/Clean%20Code-Efficiency-orange?style=for-the-badge&logo=codeforces&logoColor=white)  
   Improving **problem-solving and coding efficiency**
-
 </p>
-
-
 
 ### My Approach
 
@@ -65,8 +61,3 @@ I like to think of myself as someone who works smarter, not harder.</p>
 
 <img src="https://leetcard.jacoblin.cool/Siby_R?ext=contest&theme=dark&animation=true" 
      alt="LeetCode Contest Rating" width="39%" align="left" />
-
-
-
-
-
