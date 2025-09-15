@@ -1,12 +1,9 @@
-name: Metrics + CodeChef Stats
+name: Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # Metrics daily at midnight UTC
-    - cron: "0 3 * * *"   # CodeChef stats daily at 3 AM UTC
+  schedule: [{cron: "0 0 * * *"}]  
   workflow_dispatch:
-  push:
-    branches: ["master", "main"]
+  push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
@@ -30,29 +27,3 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-
-  codechef-stats:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Generate badge
-        run: python update_codechef_stats.py
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add codechef_stats.svg
-          git commit -m "Update CodeChef stats" || echo "No changes"
-          git push
