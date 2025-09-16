@@ -43,6 +43,7 @@ I enjoy exploring new technologies, working on practical projects, and continuou
   style="width: 57%; max-width: 520px; margin-left: 0rem; margin-bottom: 0rem;">
 
 <p align="left">
+  
 - ![MERN](https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)  
   Mastering **MongoDB, React, and Node.js**  
 
