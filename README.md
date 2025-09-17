@@ -60,5 +60,6 @@ I like to think of myself as someone who works smarter, not harder.</p>
 
 ### My LeetCode Stats </span>
 
-<img src="https://leetcard.jacoblin.cool/Siby_R?ext=contest&theme=dark&animation=true" 
-     alt="LeetCode Contest Rating" width="39%" align="left" />
+<p align="center">
+  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats"/>
+</p>
