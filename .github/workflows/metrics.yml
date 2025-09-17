@@ -19,10 +19,12 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           
-      - name: Detailed display
-        uses: lowlighter/metrics@latest
+      - name: LeetCode stats
+        uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.plugin.achievements.svg
+          filename: metrics.plugin.leetcode.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_achievements: yes
+          plugin_leetcode: yes
+          plugin_leetcode_user: Siby_R
+          plugin_leetcode_sections: solved, skills, recent, contests, badges
