@@ -27,6 +27,7 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
+          
       - name: Detailed display
         uses: lowlighter/metrics@latest
         with:
@@ -34,4 +35,3 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
