@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
   </a>
   <a href="https://www.codechef.com/users/siby_369" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 2★"/>
   </a>
   <a href="https://leetcode.com/u/Siby_R/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
