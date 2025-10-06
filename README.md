@@ -73,7 +73,7 @@ I enjoy exploring new technologies, working on practical projects, and continuou
   <img 
     src="./metrics.plugin.leetcode.svg" 
     alt="LeetCode Stats" 
-    style="width: 580px; max-width: 100%; height: auto;">
+    style="width: 540px; max-width: 100%; height: auto;">
 
 
 
