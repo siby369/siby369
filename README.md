@@ -60,6 +60,15 @@ I like to think of myself as someone who works smarter, not harder.</p>
 
 ### My LeetCode Stats </span>
 
-<p align="center">
-  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats"/>
-</p>
+<div align="center">
+  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" align="left" width="45%">
+
+  <div align="right">
+    <h3>My Codolio</h3>
+    <picture>
+      <img align="right" alt="Card demo" src="./card.gif" width="30%">
+    </picture>
+  </div>
+</div>
+
+
