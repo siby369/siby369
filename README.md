@@ -56,19 +56,26 @@ I enjoy exploring new technologies, working on practical projects, and continuou
 
 ### My Approach
 
-I like to think of myself as someone who works smarter, not harder.</p>
+<p>
+  I like to think of myself as someone who works smarter, not harder.
+</p>
 
-### My LeetCode Stats </span>
+<h3 style="margin: 0;">
+  My LeetCode Stats
+<picture>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Codolio card
+  <img 
+    alt="Card demo" 
+    src="./card.gif" 
+    align="right" 
+    style="width: 250px; max-width: 80px; margin-left: 0rem; margin-bottom: 0rem;">
+</h3>
+  <img 
+    src="./metrics.plugin.leetcode.svg" 
+    alt="LeetCode Stats" 
+    style="width: 580px; max-width: 100%; height: auto;">
 
-<div align="center">
-  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" align="left" width="45%">
 
-  <div align="right">
-    <h3>My Codolio</h3>
-    <picture>
-      <img align="right" alt="Card demo" src="./card.gif" width="30%">
-    </picture>
-  </div>
-</div>
+
 
 
