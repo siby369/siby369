@@ -3,20 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Flip Card (Green Background)</title>
+<title>Flip Card (Transparent Background)</title>
 <style>
-  /* Bright green background (#c5ff33) */
+  /* Transparent full-screen layout */
   body {
     margin: 0;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #c5ff33;
+    background: transparent;
     overflow: hidden;
   }
 
-  /* Maintain aspect ratio (1439x2479 ≈ 1:1.72) */
+  /* Maintain your image aspect ratio (1439x2479 ≈ 1:1.72) */
   .flip-card {
     width: 280px;
     height: 482px;
@@ -39,7 +39,7 @@
     backface-visibility: hidden;
     border-radius: 15px;
     overflow: hidden;
-    background: #c5ff33;
+    background: transparent;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,7 +49,7 @@
   .flip-card-back img {
     width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit: contain; /* ensures full image shows */
   }
 
   .flip-card-back {
