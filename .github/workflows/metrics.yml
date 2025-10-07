@@ -1,15 +1,24 @@
-name: Metrics
+name: Metrics and 3D Contributions
 
 on:
-  schedule: [{cron: "0 0 * * *"}]  
+  schedule:
+    # Metrics: Runs daily at midnight UTC
+    - cron: "0 0 * * *"
+    # 3D Contributions: Runs daily at 18:00 UTC (03:00 JST)
+    - cron: "0 18 * * *"
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["master", "main"]
+
+permissions:
+  contents: write
 
 jobs:
+  # -------------------
+  # 1️⃣ GitHub Metrics
+  # -------------------
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Half-year calendar
         uses: lowlighter/metrics@latest
@@ -65,3 +74,24 @@ jobs:
           plugin_screenshot_wait: 0
           plugin_screenshot_background: yes
 
+  # ------------------------------
+  # 2️⃣ 3D Contribution Generation
+  # ------------------------------
+  github-profile-3d-contrib:
+    runs-on: ubuntu-latest
+    needs: github-metrics
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
