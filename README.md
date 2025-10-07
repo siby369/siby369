@@ -68,12 +68,12 @@ I enjoy exploring new technologies, working on practical projects, and continuou
     alt="Card demo" 
     src="./card.gif" 
     align="right" 
-    style="width: 250px; max-width: 80px; margin-left: 0rem; margin-bottom: 0rem;">
+    style="width: 220px; max-width: 80px; margin-left: 0rem; margin-bottom: 0rem;">
 </h3>
   <img 
     src="./metrics.plugin.leetcode.svg" 
     alt="LeetCode Stats" 
-    style="width: 540px; max-width: 100%; height: auto;">
+    style="width: 500px; max-width: 100%; height: auto;">
 
 
 
