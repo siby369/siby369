@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1261" height="823" alt="image" src="https://github.com/user-attachments/assets/1bceb568-d150-4cd2-8d97-4ec409e3b596" /><p align="center">
   <img src="https://raw.githubusercontent.com/siby369/siby369/main/github-header-banner.png" 
        alt="Banner" 
        width="100%" />
@@ -19,10 +19,13 @@
     <img src="https://img.shields.io/badge/Codolio-FF6F00?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
   </a>
   <a href="https://www.codechef.com/users/siby_369" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-2★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 2★"/>
+    <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 3★"/>
   </a>
   <a href="https://leetcode.com/u/Siby_R/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/siby_369" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-694-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 934"/>
   </a>
   <a href="mailto:sibyraj369@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
