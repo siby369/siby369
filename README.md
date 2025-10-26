@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/siby_369" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-694-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 934"/>
+    <img src="https://img.shields.io/badge/Codeforces-934-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 934"/>
   </a>
   <a href="mailto:sibyraj369@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
