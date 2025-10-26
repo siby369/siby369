@@ -1,4 +1,4 @@
-<img width="1261" height="823" alt="image" src="https://github.com/user-attachments/assets/1bceb568-d150-4cd2-8d97-4ec409e3b596" /><p align="center">
+
   <img src="https://raw.githubusercontent.com/siby369/siby369/main/github-header-banner.png" 
        alt="Banner" 
        width="100%" />
