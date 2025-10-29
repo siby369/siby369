@@ -21,12 +21,12 @@
   <a href="https://www.codechef.com/users/siby_369" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 3★"/>
   </a>
-  <a href="https://leetcode.com/u/Siby_R/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/siby_369" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-934-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 934"/>
-  </a>
+<a href="https://leetcode.com/u/Siby_R/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-1581-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 1581"/>
+</a>
+<a href="https://codeforces.com/profile/siby_369" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-994-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 994"/>
+</a>
   <a href="mailto:sibyraj369@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
