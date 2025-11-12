@@ -22,10 +22,10 @@
     <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 3★"/>
   </a>
 <a href="https://leetcode.com/u/Siby_R/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-1597-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 1597"/>
+  <img src="https://img.shields.io/badge/LeetCode-1709-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 1709"/>
 </a>
 <a href="https://codeforces.com/profile/siby_369" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-994-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 994"/>
+  <img src="https://img.shields.io/badge/Codeforces-1405-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 1405"/>
 </a>
   <a href="mailto:sibyraj369@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
