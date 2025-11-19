@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="370" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="340" class="">
     <defs>
         <style/>
     </defs>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x190</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x192</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x73</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x72</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x72</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x70</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x49</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x41</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x40</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x71</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x50</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x42</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x41</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x29</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x28</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x27</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x27</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
