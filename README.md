@@ -60,6 +60,64 @@ I enjoy exploring new technologies, working on practical projects, and continuou
   Improving **problem-solving and coding efficiency**
 </p>
 
+<h2>My Projects</h2>
+
+<p align="left">
+
+  <!-- Project 1 -->
+  <h3>1. AceInterview – Full-Stack Interview Practice Platform</h3>
+  <p>
+    <a href="https://github.com/siby369/Ace-Interview" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-AceInterview-blue?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://ace-interview-2kxa.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-ace--interview--2kxa.vercel.app-green?style=for-the-badge&logo=vercel" />
+    </a>
+  </p>
+  <p>
+    A complete web platform for interview preparation with dynamic questions, role-based practice paths, and a modern animated UI.
+  </p>
+
+  <!-- Project 2 -->
+  <h3>2. Restaurant Website – Responsive Frontend Website</h3>
+  <p>
+    <a href="https://github.com/siby369/restaurant-website" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-Restaurant%20Website-blue?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://siby369.github.io/restaurant-website/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-restaurant--website-green?style=for-the-badge&logo=githubpages" />
+    </a>
+  </p>
+  <p>
+    A fully responsive restaurant landing site built with clean UI, animations, and performance-optimized components.
+  </p>
+
+  <!-- Project 3 -->
+  <h3>3. Text-to-Image Using GANs</h3>
+  <p>
+    <a href="https://github.com/siby369/Text-to-Image-using-GANS" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-Text%20to%20Image%20GANs-blue?style=for-the-badge&logo=github" />
+    </a>
+  </p>
+  <p>
+    A deep-learning project implementing GAN architectures to generate synthetic images from text embeddings.
+  </p>
+
+  <!-- Project 4 -->
+  <h3>4. KIT Qiskit Fall Fest Website – Event Webpage</h3>
+  <p>
+    <a href="https://github.com/siby369/kit-qiskit-fall-fest-website" target="_blank">
+      <img src="https://img.shields.io/badge/Repository-Fall%20Fest%20Website-blue?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://kit-qiskit-fall-fest-website.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-kit--qiskit--fall--fest--website-green?style=for-the-badge&logo=vercel" />
+    </a>
+  </p>
+  <p>
+    A promotional web page for the KIT Qiskit Fall Fest, featuring event details, registration workflow, and a responsive modern UI.
+  </p>
+</p>
+
 ### My Approach
 
 <p>
