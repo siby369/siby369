@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 3★"/>
   </a>
 <a href="https://leetcode.com/u/Siby_R/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-1941-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 1941"/>
+  <img src="https://img.shields.io/badge/LeetCode-2042-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 2042"/>
 </a>
 <a href="https://codeforces.com/profile/Siby_R" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-1945-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 1945"/>
