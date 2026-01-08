@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2a21" alt="CodeChef 3★"/>
   </a>
 <a href="https://leetcode.com/u/Siby_R/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-2042-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 2042"/>
+  <img src="https://img.shields.io/badge/LeetCode-2124-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Rating 2124"/>
 </a>
 <a href="https://codeforces.com/profile/Siby_R" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1945-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 1945"/>
+  <img src="https://img.shields.io/badge/Codeforces-2235-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rating 2235"/>
 </a>
   <a href="https://atcoder.jp/users/Siby_369" target="_blank">
   <img src="https://img.shields.io/badge/AtCoder-1229-00AA00?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder Rating 1229"/>
