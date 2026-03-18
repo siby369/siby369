@@ -63,10 +63,10 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x337</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x126</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x339</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x127</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x126</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x116</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x118</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x88</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x80</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x73</span></div>
