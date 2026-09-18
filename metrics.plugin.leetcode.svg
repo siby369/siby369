@@ -71,8 +71,8 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x110</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x97</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x67</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x63</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x63</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x62</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
